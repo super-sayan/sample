@@ -15,10 +15,10 @@ A Spotify-like app that allows users to upload, store, and download music with s
 - Logging of downloads/uploads
 
 ## Planned Functions
--[] User login/logout
--[] Upload music files
--[] Browse/download files
--[] Admin dashboard
+- User login/logout
+- Upload music files
+- Browse/download files
+- Admin dashboard
 
 ## Tools & Stack
 - Python (Flask)
