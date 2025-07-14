@@ -1,2 +1,2 @@
-./client/.env
-./server/songs/*
+client/.env
+server/songs/*
